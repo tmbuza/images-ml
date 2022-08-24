@@ -1,2 +1,1 @@
-# images-ml
-Classifying images via an app
+# Classifying images via an app
